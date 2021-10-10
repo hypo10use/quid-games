@@ -10,6 +10,13 @@ Quid Games is a decentralised app that is a survival game based on the popular T
 
 This project was built as part of [Ergo Hack 2](https://ergohack.io/). 
 
+## The Quid Games - link to website
+
+- Front-end: https://hypo10use-ergohack.herokuapp.com/ 
+- Back-end: https://hypo10use-backend.herokuapp.com/
+
+## The wider product
+
 The project is split into the following sections:
 
 | Product      | Description |
@@ -25,6 +32,7 @@ The MVP build will have the following components
 - [x] Squid Like theme across the project
 - [x] Implement a game with users having the ability to place a bet
 - [x] Allow users to connect to their wallets
+- [ ] Connect the transactions through ergo with the back end _Last item missing_
 
 ### Future builds
 - [ ] multiple games
