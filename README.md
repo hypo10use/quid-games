@@ -27,10 +27,10 @@ The MVP build will have the following components
 - [x] Allow users to connect to their wallets
 
 ### Future builds
-- [] multiple games
-- [] invite only via quid game cards
-- [] large rooms with participants allowed to talk to each other
-- [] Localised games, enabling targeted games based on regions
+- [ ] multiple games
+- [ ] invite only via quid game cards
+- [ ] large rooms with participants allowed to talk to each other
+- [ ] Localised games, enabling targeted games based on regions
 
 ## Contact
 
@@ -39,3 +39,5 @@ Feel free to reach out to any of the key members on the project, found as member
 ## Acknowledgements 
 
 A big thank you to the developers at Ergo, for all their help during the development. 
+
+![img](https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_320,w_647,x_0,y_0/dpr_1.5/c_limit,w_690/fl_lossy,q_auto/210929-Fallon-Obsessed-embed-01_k3wdve)
