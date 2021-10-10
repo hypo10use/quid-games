@@ -28,17 +28,28 @@ The project is split into the following sections:
 ## Roadmap
 ### MVP build
 The MVP build will have the following components
-- [x] Utilising the ergo platform
-- [x] Squid Like theme across the project
-- [x] Implement a game with users having the ability to place a bet
-- [x] Allow users to connect to their wallets
-- [ ] Connect the transactions through ergo with the back end _Last item missing_
+- [x] Implement Frontend using Angular
+- [x] Squid Like theme on the Frontend
+- [x] Allow users to connect to their wallets with YOROI Connector
+- [x] Implement Contracts (Betting, Ticket, Winning)
+- [x] Implement Scala Backend (Transactions, Blocks, etc.)
+- [x] Implement Scala REST to communicate with Backend (Betting, Checking, Submitting)
+- [x] Implement NodeJS Backend (WebSockets)
+- [ ] Connect the transactions through from frontend through backend to the ergo blockchain (End-to-End)
+- [ ] Deployment onto testnet
+- [ ] Deployment onto mainnet
 
 ### Future builds
 - [ ] multiple games
 - [ ] invite only via quid game cards
 - [ ] large rooms with participants allowed to talk to each other
 - [ ] Localised games, enabling targeted games based on regions
+
+## TechStack
+- Angular (Frontend)
+- NodeJS (Backend)
+- ErgoScala (Blockchain)
+- ErgoScript (Blockchain)
 
 ## Contact
 
