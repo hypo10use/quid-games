@@ -51,6 +51,10 @@ The MVP build will have the following components
 - ErgoScala (Blockchain)
 - ErgoScript (Blockchain)
 
+## Progress Report until MVP
+https://progress-bar.dev/<thepercentage>?title=<title>
+
+
 ## Contact
 
 Feel free to reach out to any of the key members on the project, found as members within this github project.
