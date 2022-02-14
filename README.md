@@ -53,7 +53,7 @@ The MVP build will have the following components
 
 ## Progress Report until MVP
 
-![Progress](https://progress-bar.dev/28/?title=progress)
+![Nautilus Integration](https://progress-bar.dev/0/?title=Nautilus)
 
 
 ## Contact
