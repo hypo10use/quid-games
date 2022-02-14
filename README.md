@@ -53,8 +53,8 @@ The MVP build will have the following components
 
 ## Progress Report until MVP
 
-![Nautilus Integration](https://progress-bar.dev/0/?title=Nautilus)
-![Yoroi Integration](https://progress-bar.dev/80/?title=Yoroi)
+- ![Nautilus Integration](https://progress-bar.dev/0/?title=Nautilus)
+- ![Yoroi Integration](https://progress-bar.dev/80/?title=Yoroi)
 
 
 
