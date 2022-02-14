@@ -56,6 +56,7 @@ The MVP build will have the following components
 - ![Nautilus Integration](https://progress-bar.dev/0/?title=Nautilus)
 - ![Yoroi Integration](https://progress-bar.dev/80/?title=Yoroi)
 - ![Contracts](https://progress-bar.dev/50/?title=Contracts)
+- ![Backend](https://progress-bar.dev/50/?title=Backend)
 - ![Frontend UI](https://progress-bar.dev/10/?title=Frontend_UI)
 - ![Frontend](https://progress-bar.dev/75/?title=Frontend)
 
