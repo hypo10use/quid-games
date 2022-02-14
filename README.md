@@ -22,7 +22,7 @@ The project is split into the following sections:
 | Product      | Description |
 | ------------ | ----------- |
 | [Front-End](https://github.com/hypo10use/quid-game)    | This repo contains the front end, built using Angular. |
-| ~~[Back-End](https://github.com/hypo10use/backend-node)     | This repo contains the back-end, built using JavaScript. | ~~	Cancelled as not needed anzm
+| ~~[Back-End](https://github.com/hypo10use/backend-node)     | This repo contains the back-end, built using JavaScript. | ~~	Cancelled as not needed
 | [Blockchain](https://github.com/hypo10use/blockchain)   | This repo contains all the blockchain code. |
 
 ## Roadmap
