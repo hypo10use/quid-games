@@ -52,7 +52,7 @@ The MVP build will have the following components
 - ErgoScript (Blockchain)
 
 ## Progress Report until MVP
-https://progress-bar.dev/<thepercentage>?title=<title>
+https://progress-bar.dev/50?title=Frontend
 
 
 ## Contact
